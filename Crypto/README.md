@@ -25,3 +25,7 @@
 import base64
 encoded = base64.b64encode(b"Hello World")
 print(encoded)  # b'SGVsbG8gV29ybGQ='
+
+### 3. Hash decoder
+
+Ссылка: https://www.md5online.org/md5-decrypt.html
