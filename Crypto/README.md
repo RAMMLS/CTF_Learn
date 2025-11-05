@@ -19,13 +19,12 @@
 - Анализа хешей
 - Работы с JSON/XML
 
-## Форматы использования
-```python
-# Пример работы с Base64 через CyberChef
-import base64
-encoded = base64.b64encode(b"Hello World")
-print(encoded)  # b'SGVsbG8gV29ybGQ='
+### 3. MD5 Online Hash Decoder
+**Ссылка:** https://www.md5online.org/md5-decrypt.html  
+Специализированный инструмент для:
+- Дешифрования MD5 хешей
+- Поиска в базе предварительно вычисленных хешей
+- Проверки хешей паролей
+- Работы с другими хеш-функциями
 
-### 3. Hash decoder
 
-Ссылка: https://www.md5online.org/md5-decrypt.html
