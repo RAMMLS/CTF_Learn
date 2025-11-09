@@ -2,7 +2,7 @@
 ## Инкапсуляция — это включение информации предыдущего уровня в данные следующего.
 
 
-'''bash
+***
 OSI model 
 [1] Application layer
 [2] Presentation layer 
@@ -11,4 +11,5 @@ OSI model
 [5] Network layer 
 [6] Data link layer 
 [7] Physical layer 
-'''
+***
+
