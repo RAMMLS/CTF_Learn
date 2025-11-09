@@ -4,12 +4,29 @@
 
 ***
 OSI model 
-[1] Application layer
-[2] Presentation layer 
-[3] Session layer
-[4] Transport layer 
-[5] Network layer 
-[6] Data link layer 
-[7] Physical layer 
+|[1] Application layer - преобразует в читаемый вид
+|[2] Presentation layer - кодирование, шифрование и тд.
+|[3] Session layer - управляет сеансами связи.
+|[4] Transport layer - определяет процесс обработки данных на конечных устройствах.
+|[5] Network layer - реализует адресацию и маршрутизацию сети.
+|[6] Data link layer - определяет как информация достигает устройство.
+V[7] Physical layer - самый нижний уровень, отвечающий за физ. соединение.
 ***
+
+
+MAC адрес - физический адрес устройства 
+
+
+Модель OSI является лишь наглядным примером реализации инкапсуляции и не имеет практического применения.
+
+***
+TCP/IP 
+[1] Application layer 
+[2] Transport layer 
+[3] Network layer 
+[4] Network Access layer 
+***
+
+В отличие от OSI TCP/IP более проста.
+
 
