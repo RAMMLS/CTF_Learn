@@ -1,7 +1,7 @@
 ```markdown
 # IX Кубок CTF 2025 Quals - Решения 4 Baby задач
 
-**Команда:** LamzikGG  
+**Команда:** ITupolev  
 **Репозиторий с решениями:** [RAMMLS/CTF_Learn/CTF_Contests/](https://github.com/RAMMLS/CTF_Learn/tree/main/CTF_Contests)
 
 ## 📁 Структура репозитория
