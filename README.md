@@ -6,4 +6,4 @@ There is some CTF solutions
 we are the best idk)
 
 
-Today i tested a neew site from my classmates)
+Today i tested a neew site from my classmates
